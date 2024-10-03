@@ -1,0 +1,5 @@
+
+ABACISCUS means One of the tiles or squares of a tessellated pavement an abaculus.
+HopSize 6
+
+Enter a word: 
